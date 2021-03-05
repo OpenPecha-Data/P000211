@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000211
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བཀའ་བརྒྱད་རྣམ་བཤད། །
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་མི་ཕམ།
-  sku: SHE-002
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: SHE-002
 web_metadata:
   title:
     en: A Presentation of the Eight Herukas
